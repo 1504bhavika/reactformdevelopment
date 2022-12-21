@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: beige;
+  padding: 40px;
+  
+}
+.rollno{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  color:cornflowerblue;
+
+}
+.imagee{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  text-transform: uppercase;
+  color:cornflowerblue;
+}
+.textarea{
+ 
+  white-space: pre;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
